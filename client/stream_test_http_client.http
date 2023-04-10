@@ -1,0 +1,4 @@
+GET http://localhost:8080/order?userId=1&productId=1&price=100
+Accept: application/json
+
+###
